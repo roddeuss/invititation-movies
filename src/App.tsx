@@ -8,7 +8,7 @@ function App() {
       <InvitationCard />
       
       <footer className="absolute bottom-4 text-center w-full text-pink-400 text-xs opacity-60">
-        Dibuat dengan ❤️ untuk 5cm/s
+        Dibuat dengan ❤️ untuk sabeth
       </footer>
     </div>
   )
